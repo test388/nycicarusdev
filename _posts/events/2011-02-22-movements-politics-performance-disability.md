@@ -8,7 +8,7 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  feature: abstract-7.jpg
+  feature: occupyhealth-400x250.jpg
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
 ---
