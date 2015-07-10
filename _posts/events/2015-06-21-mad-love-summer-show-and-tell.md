@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: article
 title: "Book Launch of Psychiatry Disrupted: Theorizing Resistance and
 Crafting the (R)evolution by Dr. Bonnie Burstow"
+categories: events
 description: "Custom written post descriptions are the way to go... if you're not lazy."
+modified: 2011-02-02T11:57:41-04:00
 tags: [Icarus Project, book, NYU, Jonathan Metzl]
-modified: 2011-02-02
+comments: true
+ads: false
 image:
   feature: abstract-7.jpg
   credit: NYC Icarus

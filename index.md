@@ -36,12 +36,6 @@ image:
 </div><!-- /.tiles -->
 
 <div class="tiles">
-{% for post in site.categories.articles %}
-  {% include post-list.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
-<div class="tiles">
 {% for post in site.categories.events %}
   {% include post-grid.html %}
 {% endfor %}
