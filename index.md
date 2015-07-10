@@ -30,13 +30,14 @@ image:
 </div><!-- /.tiles -->
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.events %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
 <div class="tiles">
-{% for post in site.categories.events %}
+{% for post in site.categories.articles %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
