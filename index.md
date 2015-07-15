@@ -21,7 +21,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Reclaiming History</h2>
-  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Pablo Picasso, Sigmund Freud and thousands of other world changing figures have in common? They are all one of us. We claim the history of brilliance in madness as our own.</p>
+  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Pablo Picasso, Sigmund Freud have in common? They are all one of us. We claim the history of brilliance in madness as our own.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -31,7 +31,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Community</h2>
-  <p class="post-excerpt">We hold regular events, workshops and celebrations for those our peers. We have an active online community at Facebook.
+  <p class="post-excerpt">We hold <a href="/events">regular events, workshops and celebrations</a>. We have an active online community at Facebook.
     <br/><a href="https://www.facebook.com/theicarusproject" class="btn">Facebook Page</a><br/>
     <a href="https://www.facebook.com/groups/2394863930/" class="btn">Facebook Group</a></p>
 </div><!-- /.tile -->
