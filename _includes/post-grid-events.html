@@ -4,11 +4,11 @@
 
     {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
 
-  {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>{% endif %}
+  <!-- {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>{% endif %} -->
 
-  {% if post.event-date %}<p class="entry-date date published">Date:{{ post.event-date }}</p>{% endif %}
-  {% if post.event-time %}<p class="entry-date date published">Time:{{ post.event-time }}</p>{% endif %}
-  {% if post.event-location %}<p class="entry-date date published">Location:{{ post.event-location }}</p>{% endif %}
+  {% if post.event-date %}<p class="event-detail"><strong>Date:</strong>&nbsp;{{ post.event-date }}</p>{% endif %}
+  {% if post.event-time %}<p class="event-detail"><strong>Time:</strong>&nbsp;{{ post.event-time }}</p>{% endif %}
+  {% if post.event-location %}<p class="event-detail"><strong>Location:</strong>&nbsp;{{ post.event-location }}</p>{% endif %}
 
   <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 
