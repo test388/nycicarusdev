@@ -5,6 +5,12 @@ image:
   feature: protest-blue.jpg
 ---
 
+<style>
+  .btn{
+    margin-bottom: 5px;
+  }
+</style>
+
 <div class="tiles">
 
 <div class="tile">
