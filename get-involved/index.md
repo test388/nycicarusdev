@@ -17,12 +17,13 @@ share: false
 		list-style: none;
 	}
 	form{
-		border: 2px solid blue;
+		border: 2px solid #000080;
 		padding: 5px;
+		border-radius: 3px;
 	}
 </style>
 
-# Sign up for the event and breaking news email list
+# Sign up for the news and EVENT EMAIL LIST
 <figure>
 <form action="https://docs.google.com/forms/d/1_SXKNfDKOvwVn0uoC2OC4dmsKBM8iQBUcJUokKnBkWQ/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
@@ -65,7 +66,7 @@ share: false
 
 ---
 
-# Apply for the NYC Icarus organizer email list
+# Apply for the NYC Icarus ORGANIZER EMAIL LIST
 <figure>
 <form action="https://docs.google.com/forms/d/1cr1PkpQNQQLPMRPSk3v9cEuyTZglGNYEyN7jiRlbKgw/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
