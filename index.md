@@ -16,22 +16,22 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Who We Are</h2>
-  <p class="post-excerpt">We are a support network and media project by and for people who experience the world in ways that are often diagnosed as mental illness.</p>
+  <p class="post-excerpt">We are a support network, advocacy organization and media project by and for people who experience the world in ways that are often diagnosed as mental illness.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Events and Workshops</h2>
-  <p class="post-excerpt">The NYC Icarus Project hosts a regular event at the Blue Stockings Feminist Community Center every month. In addition to regular events we host numerouse special events and classes.</p>
+  <h2 class="post-title">Reclaiming History</h2>
+  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Pablo Picasso, Sigmund Freud and thousands of other world changing figures have in common? They are all one of us. We claim the history of brilliance in madness as our own.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Guides and Publications</h2>
-  <p class="post-excerpt">We aim to create a language that is so vast and rich that it expresses the infinite diversity of human experiences.</p>
+  <h2 class="post-title">Reappropriating Language</h2>
+  <p class="post-excerpt">We are not a diagnosis or a social affliction. We claim the term “madness” because it connects us to our art, our history and each other.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Online Community</h2>
-  <p class="post-excerpt">The Icarus Project has an extremely active online community at Facebook.
+  <h2 class="post-title">Community</h2>
+  <p class="post-excerpt">We hold regular events, workshops and celebrations for those our peers. We have an active online community at Facebook.
     <br/><a href="https://www.facebook.com/theicarusproject" class="btn">Facebook Page</a><br/>
     <a href="https://www.facebook.com/groups/2394863930/" class="btn">Facebook Group</a></p>
 </div><!-- /.tile -->
