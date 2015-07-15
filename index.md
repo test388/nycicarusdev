@@ -25,8 +25,8 @@ image:
 <div class="tile">
   <h2 class="post-title">Online Community</h2>
   <p class="post-excerpt">The Icarus Project has an extremely active online community at Facebook.
-    <a href="https://www.facebook.com/theicarusproject" class="btn-inverse">Facebook Page</a>
-    <a href="https://www.facebook.com/groups/2394863930/" class="btn-inverse">Facebook Group</a></p>
+    <br/><a href="https://www.facebook.com/theicarusproject" class="btn">Facebook Page</a><br/>
+    <a href="https://www.facebook.com/groups/2394863930/" class="btn">Facebook Group</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
