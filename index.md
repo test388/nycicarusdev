@@ -46,7 +46,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-#Articles
+#Recent Articles
 
 <div class="tiles">
 {% for post in site.categories.articles %}
