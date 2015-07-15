@@ -11,6 +11,9 @@ image:
   feature: abstract-7.jpg
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
+event-date: "Wednesday, February 2, 2011"
+event-time: "6:00 - 8:00 PM"
+event-location: "20 Cooper Square, 4th Floor"
 ---
 ### Discussing his recent book *The Protest Psychosis: How Schizophrenia Became a Black Disease*
 
