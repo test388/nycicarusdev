@@ -12,9 +12,7 @@ image:
 share: false
 ---
 
-## Sign up for the event and breaking news email list
-
-<iframe src="https://docs.google.com/forms/d/1_SXKNfDKOvwVn0uoC2OC4dmsKBM8iQBUcJUokKnBkWQ/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+# Sign up for the event and breaking news email list
 
 <form action="https://docs.google.com/forms/d/1_SXKNfDKOvwVn0uoC2OC4dmsKBM8iQBUcJUokKnBkWQ/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
@@ -52,15 +50,12 @@ share: false
 <input type="hidden" name="fbzx" value="-786236100695167939">
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-<div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "></td>
 </tr></tbody></table></div></ol></form>
 
 ---
 
-## Apply for the NYC Icarus organizer email list
-
-<iframe src="https://docs.google.com/forms/d/1cr1PkpQNQQLPMRPSk3v9cEuyTZglGNYEyN7jiRlbKgw/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+# Apply for the NYC Icarus organizer email list
 
 <form action="https://docs.google.com/forms/d/1cr1PkpQNQQLPMRPSk3v9cEuyTZglGNYEyN7jiRlbKgw/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
@@ -127,7 +122,6 @@ share: false
 <input type="hidden" name="fbzx" value="-1268249622409777721">
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-<div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "></td>
 </tr></tbody></table></div></ol></form>
 
