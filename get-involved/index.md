@@ -13,7 +13,7 @@ share: false
 ---
 
 # Sign up for the event and breaking news email list
-{% highlight bash %}
+<figure>
 <form action="https://docs.google.com/forms/d/1_SXKNfDKOvwVn0uoC2OC4dmsKBM8iQBUcJUokKnBkWQ/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
@@ -51,12 +51,12 @@ share: false
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "></td>
 </tr></tbody></table></div></ol></form>
-{% endhighlight %}
+</figure>
 
 ---
 
 # Apply for the NYC Icarus organizer email list
-{% highlight bash %}
+<figure>
 <form action="https://docs.google.com/forms/d/1cr1PkpQNQQLPMRPSk3v9cEuyTZglGNYEyN7jiRlbKgw/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry">
@@ -123,5 +123,5 @@ share: false
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "></td>
 </tr></tbody></table></div></ol></form>
-{% endhighlight %}
+</figure>
 
