@@ -38,17 +38,22 @@ image:
 
 </div><!-- /.tiles -->
 
-#Events
+
 
 <div class="tiles">
+
+#Events
+
 {% for post in site.categories.events %}
   {% include post-grid-events.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
-#Recent Articles
 
 <div class="tiles">
+
+#Articles
+
 {% for post in site.categories.articles %}
   {% include post-grid.html %}
 {% endfor %}
