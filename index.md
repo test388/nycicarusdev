@@ -7,7 +7,8 @@ image:
 
 <style>
   .btn{
-    margin-bottom: 5px;
+    margin-bottom: 0px;
+    margin-top: 10px;
   }
 </style>
 
