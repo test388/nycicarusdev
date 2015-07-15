@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Events and Workshops</h2>
-  <p class="post-excerpt">We envision a new culture that allows the space and freedom for exploring different states of being, and recognizes that breakdown can be the entrance to breakthrough.</p>
+  <p class="post-excerpt">The NYC Icarus Project hosts a regular event at the Blue Stockings Feminist Community Center every month. In addition to regular events we host numerouse special events and classes.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -24,7 +24,9 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Online Community</h2>
-  <p class="post-excerpt">The Icarus Project has an extremely active online community on it's Facebook group. Although the group is closed, all who request membership are joined. You can find it <a href="https://www.facebook.com/groups/2394863930/">HERE</a></p>
+  <p class="post-excerpt">The Icarus Project has an extremely active online community at Facebook.
+    <a href="https://www.facebook.com/theicarusproject" class="btn-inverse">Facebook Page</a>
+    <a href="https://www.facebook.com/groups/2394863930/" class="btn-inverse">Facebook Group</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
