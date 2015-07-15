@@ -12,6 +12,16 @@ image:
 share: false
 ---
 
+<style>
+	li{
+		list-style: none;
+	}
+	form{
+		border: 2px solid blue;
+		padding: 5px;
+	}
+</style>
+
 # Sign up for the event and breaking news email list
 <figure>
 <form action="https://docs.google.com/forms/d/1_SXKNfDKOvwVn0uoC2OC4dmsKBM8iQBUcJUokKnBkWQ/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
