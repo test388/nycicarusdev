@@ -38,8 +38,8 @@ image:
 
 </div><!-- /.tiles -->
 
-
-#Events *under construction*
+<p style="color:red;">*under construction*</p>
+#Events 
 
 <div class="tiles">
 {% for post in site.categories.events %}
@@ -47,7 +47,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-#Articles *under construction*
+#Articles 
 
 <div class="tiles">
 {% for post in site.categories.articles %}
