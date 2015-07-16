@@ -13,6 +13,9 @@ image:
   feature: bluestocking.jpg
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
+event-date: "Wednesday, February 2, 2011"
+event-time: "6:00 - 8:00 PM"
+event-location: "20 Cooper Square, 4th Floor"
 ---
 ### On Monday, June 29th, you are invited to the North American Debut: New
 York Book Launch of Psychiatry Disrupted: Theorizing Resistance and

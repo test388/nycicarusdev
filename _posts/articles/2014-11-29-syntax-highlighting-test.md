@@ -6,9 +6,11 @@ categories: articles
 excerpt: "Demo post to test the various ways of using syntax highlighting."
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  teaser: article-default-400x250.png
+  feature: article-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
+  thumb: article-default-400x250.png
 date: 2014-11-29T22:08:14-05:00
 ---
 

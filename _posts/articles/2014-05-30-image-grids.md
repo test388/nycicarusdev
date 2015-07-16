@@ -6,10 +6,12 @@ modified:
 categories: articles
 excerpt: "Demoing the various thumbnail grid styles."
 tags: []
-ads: true
+ads: false
 image:
-  feature:
-  teaser:
+  teaser: article-default-400x250.png
+  feature: article-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
 ---
 
 This is a post to test image grids.

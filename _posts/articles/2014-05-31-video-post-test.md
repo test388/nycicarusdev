@@ -6,10 +6,12 @@ modified:
 categories: articles
 excerpt: "A post with a YouTube video."
 tags: [video]
-ads: true
+ads: false
 image:
-  feature:
-  teaser:
+  teaser: article-default-400x250.png
+  feature: article-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
 ---
 
 Here's a sample video to test FitVid.js

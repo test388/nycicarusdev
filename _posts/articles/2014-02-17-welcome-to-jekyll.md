@@ -4,7 +4,12 @@ title:  "Welcome to Jekyll!"
 categories: articles
 modified: 2014-02-19
 share: false
-ads: true
+ads: false
+image:
+  teaser: article-default-400x250.png
+  feature: article-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

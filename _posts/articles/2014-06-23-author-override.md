@@ -7,11 +7,12 @@ modified:
 categories: articles
 excerpt: "A post to test author overrides using a data file."
 tags: []
-ads: true
+ads: false
 image:
-  feature:
-  teaser:
-  thumb:
+  teaser: article-default-400x250.png
+  feature: article-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
 ---
 
 For those of you who may have content written by multiple authors on your site you can assign different authors to each post if desired.

@@ -7,6 +7,14 @@ modified: 2011-02-02T11:57:41-04:00
 tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
+image:
+  teaser: event-default-400x250.png
+  feature: event-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
+event-date: "Wednesday, February 2, 2011"
+event-time: "6:00 - 8:00 PM"
+event-location: "20 Cooper Square, 4th Floor"
 ---
 ### This Wednesday! - Poetry Reading With Leah Lakshmi Piepzna Samarasinha
 

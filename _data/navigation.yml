@@ -3,29 +3,29 @@
 - title: Get Involved
   url: /get-involved/
   excerpt: "Get all the goods on NYC Icarus events and news, maybe you can even lend a helping hand."
-  image: 400x250.gif
+  image: join-nav-400x250.png
 
 - title: Events
   url: /events/
   excerpt: "*UNDER CONSTRUCTION* Events, workshops and celebrations for our peers and our allies."
-  image: 400x250.gif
+  image: events-nav-400x250.png
 
 - title: Publications
   url: /articles/
-  excerpt: "*UNDER CONSTRUCTION* This might be news, essays, publications etc."
-  image: 400x250.gif
+  excerpt: "*UNDER CONSTRUCTION* Guides, news, essays, publications and more."
+  image: publications-nav-400x250.png
 
 - title: Media
   url: /media/
-  excerpt: "*UNDER CONSTRUCTION* Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "*UNDER CONSTRUCTION* Photography, video, art and other feasts for the eye."
+  image: media-nav-400x250.png
 
 - title: Resources
   url: /resources/
-  excerpt: "*UNDER CONSTRUCTION* Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "*UNDER CONSTRUCTION* Organizations, services, places, and people that can help you."
+  image: resources-nav-400x250.png
 
 - title: About
   url: /about/
   excerpt: "The Who, Why, and What of NYC Icarus."
-  image: 400x250.gif
+  image: about-nav-400x250.png

@@ -4,7 +4,12 @@ title: "A Post with Images"
 categories: articles
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample, images, test]
-ads: true
+ads: false
+image:
+  teaser: article-default-400x250.png
+  feature: article-default-400x250.png
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
 ---
 
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.

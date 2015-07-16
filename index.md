@@ -21,12 +21,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Reclaiming History</h2>
-  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Pablo Picasso, Sigmund Freud have in common? They are all one of us. We claim the history of brilliance in madness as our own.</p>
+  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Virgina Woolf, Pablo Picasso, Sigmund Freud, and Abraham Lincoln have in common? The history of brilliance in madness is our history.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Reappropriating Language</h2>
-  <p class="post-excerpt">We are not a diagnosis or a social affliction. We claim the term “madness” because it connects us to our art, our history and each other.</p>
+  <p class="post-excerpt">We are not a diagnosis or a social affliction. We embrace the term “madness” because it connects us to our art, our history and each other.</p>
 </div><!-- /.tile -->
 
 <div class="tile">

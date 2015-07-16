@@ -8,7 +8,8 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  feature: abstract-7.jpg
+  teaser: event-default-400x250.png
+  feature: event-default-400x250.png
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
 event-date: "Wednesday, February 2, 2011"
