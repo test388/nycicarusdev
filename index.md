@@ -21,7 +21,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Reclaiming History</h2>
-  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Virgina Woolf, Pablo Picasso, Sigmund Freud, and Abraham Lincoln have in common? The history of brilliance in madness is our history.</p>
+  <p class="post-excerpt">What do Martin Luther King, Nina Simone, Issac Newton, Virgina Woolf, Pablo Picasso, Sigmund Freud, and Abraham Lincoln have in common? They are all one of us. The history of brilliance in madness is our history.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
