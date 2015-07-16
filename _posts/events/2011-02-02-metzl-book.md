@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Jonathan Metzl"
+title: "Jonathan Metzl Book Talk"
 categories: events
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 modified: 2011-02-02T11:57:41-04:00
