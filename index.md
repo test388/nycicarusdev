@@ -39,6 +39,7 @@ image:
 </div><!-- /.tiles -->
 
 <p style="color:red;">*under construction*</p>
+
 #Events 
 
 <div class="tiles">
