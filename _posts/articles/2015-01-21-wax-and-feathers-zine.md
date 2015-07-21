@@ -3,7 +3,7 @@ layout: article
 title: "Wax and Feathers Zine"
 modified:
 categories: articles
-excerpt: "Demo post to test the various ways of using syntax highlighting."
+excerpt: "This Wax and Feathers zine was a collaborative work by a group of super talented folks who post on the Icarus Project forums: 'In expressing our feelings, insights, and ideas about madness and the world around us we hope to inform and inspire others.' "
 tags: []
 image:
   teaser: waxandfeathers-image-400x250.png
