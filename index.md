@@ -14,6 +14,11 @@ image:
   h1{
     display:inline-block;
   }
+  .title-tile{
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 40px;
+  }
 </style>
 
 <div class="tiles">
@@ -57,7 +62,7 @@ image:
 ---
 
 <div class="tiles">
-  <div class="tile">
+  <div class="tile title-tile">
     <h1>Resources</h1>
   </div>
 </div>
@@ -72,7 +77,7 @@ image:
 ---
 
 <div class="tiles">
-  <div class="tile">
+  <div class="tile title-tile">
     <h1>Publications and Media</h1>
   </div>
 </div>
