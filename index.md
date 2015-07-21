@@ -43,7 +43,7 @@ image:
 #Events 
 
 <div class="tiles">
-{% for post in site.categories.events %}
+{% for post in site.categories.events limit: 4 %}
   {% include post-grid-events.html %}
 {% endfor %}
 </div><!-- /.tiles -->
@@ -54,7 +54,7 @@ image:
 #Resources
 
 <div class="tiles">
-{% for post in site.categories.resources %}
+{% for post in site.categories.resources limit: 4 %}
   {% include post-grid-resources.html %}
 {% endfor %}
 </div><!-- /.tiles -->
@@ -63,7 +63,7 @@ image:
 #Publications and Media 
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.articles limit: 4 %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
