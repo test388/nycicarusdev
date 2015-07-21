@@ -8,8 +8,8 @@ tags: []
 image:
   teaser: waxandfeathers-image-400x250.png
   feature: waxandfeathers-image-1600x800.png
-  credit: NYC Icarus
-  creditlink: http://www.nycicarus.org
+  credit: 
+  creditlink: 
   thumb: article-default-400x250.png
 date: 2015-07-29T22:08:14-05:00
 ---
