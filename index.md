@@ -44,9 +44,12 @@ image:
 
 <p style="color:red;">*under construction*</p>
 
-#Events 
+
 
 <div class="tiles">
+  
+  #Events 
+
   {% for post in site.categories.events limit: 4 %}
     {% include post-grid-events.html %}
   {% endfor %}
@@ -55,9 +58,12 @@ image:
 
 ---
 
-#Resources
+
 
 <div class="tiles">
+
+  #Resources
+
   {% for post in site.categories.resources limit: 4 %}
     {% include post-grid-resources.html %}
   {% endfor %}
@@ -66,9 +72,11 @@ image:
 
 ---
 
-#Publications and Media 
 
 <div class="tiles">
+
+  #Publications and Media 
+
   {% for post in site.categories.articles limit: 4 %}
     {% include post-grid.html %}
   {% endfor %}
