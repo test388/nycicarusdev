@@ -51,9 +51,10 @@ image:
   {% include post-grid-events.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
 <div><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
 
-
+---
 
 #Resources
 
@@ -61,8 +62,12 @@ image:
 {% for post in site.categories.resources limit: 4 %}
   {% include post-grid-resources.html %}
 {% endfor %}
+<a href="{{ site.url }}/resources/" class="btn">More Resources</a>
 </div><!-- /.tiles -->
-<div><a href="{{ site.url }}/resources/" class="btn">More Publications and Media</a></div>
+
+<div><a href="{{ site.url }}/resources/" class="btn">More Resources</a></div>
+
+---
 
 #Publications and Media 
 
@@ -71,5 +76,6 @@ image:
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
 <div><br/><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></div>
 
