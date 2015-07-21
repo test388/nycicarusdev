@@ -17,8 +17,8 @@
 
   {% if post.location || post.location-street || post.location-city-state %}<p class="event-detail"><strong>Where</strong></p>{% endif %}
 
-  {% if post.location %}<p class="event-detail"><strong>Location:</strong>&nbsp;{{ post.location }}</p>{% endif %}
-  {% if post.location-street %}<p class="event-detail"><strong>Location:</strong>&nbsp;{{ post.location-street }}</p>{% endif %}
-  {% if post.location-city-state %}<p class="event-detail"><strong>Location:</strong>&nbsp;{{ post.location-city-state }}</p>{% endif %}
+  {% if post.location %}<p class="event-detail">{{ post.location }}</p>{% endif %}
+  {% if post.location-street %}<p class="event-detail">{{ post.location-street }}</p>{% endif %}
+  {% if post.location-city-state %}<p class="event-detail">{{ post.location-city-state }}</p>{% endif %}
 
 </article><!-- /.tile -->

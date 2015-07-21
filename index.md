@@ -52,7 +52,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<div><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
+<div class="tiles"><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
 
 ---
 
@@ -65,7 +65,7 @@ image:
 <a href="{{ site.url }}/resources/" class="btn">More Resources</a>
 </div><!-- /.tiles -->
 
-<div><a href="{{ site.url }}/resources/" class="btn">More Resources</a></div>
+<div class="tiles"><a href="{{ site.url }}/resources/" class="btn">More Resources</a></div>
 
 ---
 
@@ -77,5 +77,5 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<div><br/><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></div>
+<div class="tiles"><br/><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></div>
 
