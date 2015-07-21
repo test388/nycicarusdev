@@ -54,12 +54,13 @@ image:
   <div class="tile"><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
 </div><!-- /.tiles -->
 
----
+<div class="tiles">
+  <div class="tile">
+    <h1>Resources</h1>
+  </div>
+</div>
 
 <div class="tiles">
-
-  <h1>Resources</h1>
-
   {% for post in site.categories.resources limit: 4 %}
     {% include post-grid-resources.html %}
   {% endfor %}
@@ -67,8 +68,9 @@ image:
 </div><!-- /.tiles -->
 
 ---
-
+<figure>
 <h1>Publications and Media</h1> 
+</figure>
  
 <div class="tiles">
   {% for post in site.categories.articles limit: 4 %}
