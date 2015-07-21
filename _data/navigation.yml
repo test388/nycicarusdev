@@ -10,15 +10,10 @@
   excerpt: "*UNDER CONSTRUCTION* Events, workshops and celebrations for our peers and our allies."
   image: events-nav-400x250.png
 
-- title: Publications
-  url: /articles/
+- title: Publications and Media
+  url: /publications-media/
   excerpt: "*UNDER CONSTRUCTION* Guides, news, essays, publications and more."
   image: publications-nav-400x250.png
-
-- title: Media
-  url: /media/
-  excerpt: "*UNDER CONSTRUCTION* Photography, video, art and other feasts for the eye."
-  image: media-nav-400x250.png
 
 - title: Resources
   url: /resources/
