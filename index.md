@@ -9,6 +9,10 @@ image:
   .btn{
     margin-bottom: 0px;
     margin-top: 10px;
+    display: inline-block;
+  }
+  h1{
+    display:inline-block;
   }
 </style>
 
@@ -47,7 +51,7 @@ image:
   {% include post-grid-events.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br/><a href="{{ site.url }}/events/" class="btn">More Events</a></p>
+<br/><a href="{{ site.url }}/events/" class="btn">More Events</a>
 
 <br/>
 
@@ -58,7 +62,7 @@ image:
   {% include post-grid-resources.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br/><a href="{{ site.url }}/resources/" class="btn">More Publications and Media</a></p>
+<br/><a href="{{ site.url }}/resources/" class="btn">More Publications and Media</a>
 
 #Publications and Media 
 
@@ -67,5 +71,5 @@ image:
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br/><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></p>
+<br/><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a>
 
