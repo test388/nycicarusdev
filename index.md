@@ -17,7 +17,7 @@ image:
   .title-tile{
     width: 100%;
     margin-bottom: 0px;
-    margin-top: 40px;
+    margin-top: 30px;
   }
 </style>
 
@@ -46,9 +46,6 @@ image:
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-<p style="color:red;">*under construction*</p>
-
 
 <h1>Events</h1> 
 
