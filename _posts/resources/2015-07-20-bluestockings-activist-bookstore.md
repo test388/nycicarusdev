@@ -8,8 +8,8 @@ tags: [Activism , Free events , Volunteering]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: resource-default-400x250.png
+  feature: resource-default-400x250.png
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
 resource-date: "The second Sunday of every month"

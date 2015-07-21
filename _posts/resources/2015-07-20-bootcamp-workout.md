@@ -8,8 +8,8 @@ tags: [Free events , Athletics]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: resource-default-400x250.png
+  feature: resource-default-400x250.png
   credit: 
   creditlink: 
 resource-date: "Mondays"
