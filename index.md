@@ -47,36 +47,32 @@ image:
 #Events 
 
 <div class="tiles">
-{% for post in site.categories.events limit: 4 %}
-  {% include post-grid-events.html %}
-{% endfor %}
-<div class="tile"><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
+  {% for post in site.categories.events limit: 4 %}
+    {% include post-grid-events.html %}
+  {% endfor %}
+  <div class="tile"><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
 </div><!-- /.tiles -->
-
-
 
 ---
 
 #Resources
 
 <div class="tiles">
-{% for post in site.categories.resources limit: 4 %}
-  {% include post-grid-resources.html %}
-{% endfor %}
-<a href="{{ site.url }}/resources/" class="btn">More Resources</a>
+  {% for post in site.categories.resources limit: 4 %}
+    {% include post-grid-resources.html %}
+  {% endfor %}
+  <div class="tile"><a href="{{ site.url }}/resources/" class="btn">More Resources</a></div>
 </div><!-- /.tiles -->
-
-
 
 ---
 
 #Publications and Media 
 
 <div class="tiles">
-{% for post in site.categories.articles limit: 4 %}
-  {% include post-grid.html %}
-{% endfor %}
-<a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a>
+  {% for post in site.categories.articles limit: 4 %}
+    {% include post-grid.html %}
+  {% endfor %}
+  <div class="tile"><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></div>
 </div><!-- /.tiles -->
 
 
