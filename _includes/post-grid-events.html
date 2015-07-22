@@ -10,8 +10,15 @@
 
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 
-  {% if post.event-date %}<p class="event-detail"><strong>Date:</strong>&nbsp;{{ post.event-date }}</p>{% endif %}
-  {% if post.event-time %}<p class="event-detail"><strong>Time:</strong>&nbsp;{{ post.event-time }}</p>{% endif %}
-  {% if post.event-location %}<p class="event-detail"><strong>Location:</strong>&nbsp;{{ post.event-location }}</p>{% endif %}
+  {% if post.event-date || post.event-time %}<p class="event-detail-label"><strong>When</strong></p>{% endif %}
+
+  {% if post.event-date %}<p class="event-detail">{{ post.event-date }}</p>{% endif %}
+  {% if post.event-time %}<p class="event-detail">{{ post.event-time }}</p>{% endif %}
+
+  {% if post.location || post.location-street || post.location-city-state %}<p class="event-detail-label"><strong>Where</strong></p>{% endif %}
+
+  {% if post.location %}<p class="event-detail">{{ post.location }}</p>{% endif %}
+  {% if post.location-street %}<p class="event-detail">{{ post.location-street }}</p>{% endif %}
+  {% if post.location-city-state %}<p class="event-detail">{{ post.location-city-state }}</p>{% endif %}
 
 </article><!-- /.tile -->

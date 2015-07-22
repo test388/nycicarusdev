@@ -1,20 +1,26 @@
 ---
 layout: article
-title: "MOVEMENTS: POLITICS, PERFORMANCE, AND DISABILITY"
+title: "Movements: Politics, Performance, and Disability"
 categories: events
-description: "Custom written post descriptions are the way to go... if you're not lazy."
-modified: 2011-02-02T11:57:41-04:00
+description: "Movements: Politics, Performance, and Disability"
+excerpt: "This year's Scholar & Feminist conference brings together feminism and disability studies, two fields that have contributed to the interrogation of the public/private divide."
+modified: 2011-02-26T11:57:41-04:00
 tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
   teaser: occupyhealth-400x250.jpg
   feature: occupyhealth-400x250.jpg
-  credit: NYC Icarus
-  creditlink: http://www.nycicarus.org
-event-date: "Wednesday, February 2, 2011"
-event-time: "6:00 - 8:00 PM"
-event-location: "20 Cooper Square, 4th Floor"
+  credit: 
+  creditlink: 
+event-date: "Saturday, February 26, 2011"
+event-time: "9:00 am - 4:00 pm"
+location: "Barnard College"
+location-street: "3009 Broadway (at 117th Street)"
+location-city-state: "New York, NY"
+website: "http://www.barnard.edu/bcrw/scholarandfeminist"
+email: ""
+phone: ""
 ---
 ### The Scholar & Feminist Conference XXXVI
 

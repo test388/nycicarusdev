@@ -1,7 +1,7 @@
 ---
-layout: resource
+layout: archive
 title: "Resources"
-date: 2014-05-30T11:39:03-04:00
+date: 2015-06-30T11:39:03-04:00
 modified:
 excerpt: "Resources from across New York City."
 tags: []

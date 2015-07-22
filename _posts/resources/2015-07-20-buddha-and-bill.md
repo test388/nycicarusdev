@@ -1,8 +1,9 @@
 ---
 layout: resource
-title: "Jonathan Metzl Book Talk"
+title: "Addiction & Recovery: The Buddha and Bill W."
 categories: resources
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+description: "Addiction & Recovery: The Buddha and Bill W."
+excerpt: "2500 years ago the Buddha said craving and attachment is the cause of suffering. In the 1930’s Bill Wilson started the first Twelve-Step program that worked with a deep form of craving and suffering: addictions. In these monthly meetings, we explore the ways that Buddhism and the Steps support and complement each other and can deepen our spiritual lives. The meetings include Buddhist meditation practices, interactive exercises, dharma talks and discussion."
 modified: 2015-07-20T11:57:41-04:00
 tags: [Spirituality , Health and Wellness , Free events]
 comments: true
@@ -10,8 +11,8 @@ ads: false
 image:
   teaser: resource-default-400x250.png
   feature: resource-default-400x250.png
-  credit: NYC Icarus
-  creditlink: http://www.nycicarus.org
+  credit: 
+  creditlink: 
 resource-date: "First Monday of Each Month"
 resource-time: ""
 location: ""

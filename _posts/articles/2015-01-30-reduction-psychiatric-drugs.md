@@ -11,7 +11,7 @@ image:
   credit: 
   creditlink: 
   thumb: reduction-psychiatric-drugs-400x250.png
-date: 2015-07-30T22:08:14-05:00
+date: 
 ---
 
 The Icarus Project and [Freedom Center](http://www.freedom-center.org/)
