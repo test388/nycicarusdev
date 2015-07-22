@@ -1,0 +1,15 @@
+---
+layout: article
+title: {{ title }}
+modified:
+categories: 
+excerpt: 
+tags: 
+image:
+  teaser: 
+  feature: 
+  credit: 
+  creditlink: 
+  thumb: 
+date: {{ date }}
+---
