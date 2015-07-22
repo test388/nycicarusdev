@@ -10,12 +10,12 @@
 
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 
-  {% if post.resource-date || post.resource-time %}<p class="event-detail"><strong>When</strong></p>{% endif %}
+  {% if post.resource-date || post.resource-time %}<p class="event-detail-label"><strong>When</strong></p>{% endif %}
 
   {% if post.resource-date %}<p class="event-detail">{{ post.resource-date }}</p>{% endif %}
   {% if post.resource-time %}<p class="event-detail">{{ post.resource-time }}</p>{% endif %}
 
-  {% if post.location || post.location-street || post.location-city-state %}<p class="event-detail"><strong>Where</strong></p>{% endif %}
+  {% if post.location || post.location-street || post.location-city-state %}<p class="event-detail-label"><strong>Where</strong></p>{% endif %}
 
   {% if post.location %}<p class="event-detail">{{ post.location }}</p>{% endif %}
   {% if post.location-street %}<p class="event-detail">{{ post.location-street }}</p>{% endif %}
