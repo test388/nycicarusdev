@@ -60,21 +60,6 @@ image:
 
 <div class="tiles">
   <div class="tile title-tile">
-    <h1>Resources</h1>
-  </div>
-</div>
-
-<div class="tiles">
-  {% for post in site.categories.resources limit: 4 %}
-    {% include post-grid-resources.html %}
-  {% endfor %}
-  <div class="tile"><a href="{{ site.url }}/resources/" class="btn">More Resources</a></div>
-</div><!-- /.tiles -->
-
----
-
-<div class="tiles">
-  <div class="tile title-tile">
     <h1>Publications and Media</h1>
   </div>
 </div>
@@ -86,5 +71,18 @@ image:
   <div class="tile"><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></div>
 </div><!-- /.tiles -->
 
+---
 
+<div class="tiles">
+  <div class="tile title-tile">
+    <h1>Resources</h1>
+  </div>
+</div>
+
+<div class="tiles">
+  {% for post in site.categories.resources limit: 4 %}
+    {% include post-grid-resources.html %}
+  {% endfor %}
+  <div class="tile"><a href="{{ site.url }}/resources/" class="btn">More Resources</a></div>
+</div><!-- /.tiles -->
 
