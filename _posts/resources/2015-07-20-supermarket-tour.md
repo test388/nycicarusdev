@@ -3,6 +3,7 @@ layout: resource
 title: "'Shop Healthy' Supermarket Tour"
 categories: resources
 description: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Get tips on how to shop healthy on a budget as the Fort Greene / Clinton Hill Community Food Council leads you though a tour and conversation about how to read nutrition labels, unit pricing labels and the nutritional and dollar value of swapping canned and processed food for fresh, whole options."
 modified: 2015-07-20T11:57:41-04:00
 tags: [food]
 comments: true

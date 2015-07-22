@@ -3,6 +3,7 @@ layout: resource
 title: "Brooklyn Zen Center People of Color Group"
 categories: resources
 description: "The People of Color group fosters mutual support and understanding among people of color who find nourishment and inspiration in the teachings and practice of Buddhism."
+excerpt: "The People of Color group fosters mutual support and understanding among people of color who find nourishment and inspiration in the teachings and practice of Buddhism. The group also provides a safe space and Zen Buddhist context for openly discussing our experience of exclusion and separation resulting from oppressive, racist, social structures."
 modified: 2015-07-20T11:57:41-04:00
 tags: [food]
 comments: true

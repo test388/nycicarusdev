@@ -24,12 +24,12 @@ gems:
 owner:
   name: NYC Icarus
   web: http://icarusnyc.com
-  email: nycicarus@gmail.com
-  twitter: mmistakes
+  email: curtpw@gmail.com
+  twitter: nycicarus
   bio: "The Icarus Project NYC is a mental health grassroots organization commited to advocacy, community, and the creative arts."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
+    plus: 
     ad-client: 
     ad-slot: 
   disqus-shortname: nycicarus
