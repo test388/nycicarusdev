@@ -56,8 +56,6 @@ image:
   <div class="tile"><a href="{{ site.url }}/events/" class="btn">More Events</a></div>
 </div><!-- /.tiles -->
 
----
-
 <div class="tiles">
   <div class="tile title-tile">
     <h1>Publications and Media</h1>
@@ -70,8 +68,6 @@ image:
   {% endfor %}
   <div class="tile"><a href="{{ site.url }}/publications-media/" class="btn">More Publications and Media</a></div>
 </div><!-- /.tiles -->
-
----
 
 <div class="tiles">
   <div class="tile title-tile">
