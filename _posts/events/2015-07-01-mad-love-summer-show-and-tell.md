@@ -14,8 +14,8 @@ image:
   feature: bluestocking.jpg
   credit: 
   creditlink: 
-event-date: "Monday, June 29th"
-event-time: "7:00 pm - 9:00 pm"
+event-date: "Wednesday, July 1st, 2015"
+event-time: "7:00 pm - 9:00 pm, 2015"
 location: "Bluestockings Books"
 location-street: "3172 Allen Street"
 location-city-state: "New York, NY"
@@ -24,7 +24,7 @@ email: ""
 phone: ""
 ---
 
-**Wednesday, July 1st**
+**Wednesday, July 1st, 2015**
 **7:00 pm - 9:00 pm**
 **Bluestockings Books**
 **3172 Allen Street**
