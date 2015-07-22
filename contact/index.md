@@ -8,10 +8,10 @@ image:
   teaser:
   thumb:
 share: false
-toc: true
+toc: false
 ---
 
-{% include toc.html %}
+
 
 ## Contact Email: nycicarus@gmail.com
 
