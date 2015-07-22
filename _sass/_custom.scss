@@ -17,3 +17,9 @@
   	font-size: 0.9rem;
     line-height: 1.1;
 }
+
+ @media screen and (max-width: 550px) {
+    .site-title{
+    	display: none;
+    }
+ }
