@@ -9,8 +9,8 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: piepzna-samarasinha-400x250.png
+  feature: piepzna-samarasinha-400x250.png
   credit: 
   creditlink: 
 event-date: "Wednesday, July 7, 2015"
