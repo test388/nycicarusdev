@@ -2,25 +2,19 @@
 layout: article
 title: "Poetry Reading With Leah Lakshmi Piepzna Samarasinha"
 categories: events
-description: "Poetry Reading With Leah Lakshmi Piepzna Samarasinha."
-excerpt: "Leah Lakshmi Piepzna-Samarasinha will be sharing her award-winning brilliant poetry in conversation with the Icarus community on July 8th in NYC - join us! She is a queer disabled femme writer, performer, teacher, healer, and organizer of Burgher/Tamil Sri Lankan, Roma and Irish ascent and is an Icarus Project Advisory Board member."
-modified: 2015-07-07T11:57:41-04:00
+description: "Custom written post descriptions are the way to go... if you're not lazy."
+modified: 2011-02-02T11:57:41-04:00
 tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
   teaser: event-default-400x250.png
   feature: event-default-400x250.png
-  credit: 
-  creditlink: 
-event-date: "Wednesday, July 7, 2015"
-event-time: "7:00 pm - 9:00 pm"
-location: "Judson Memorial Church Assembly Hall"
-location-street: "239 Thompson Street"
-location-city-state: "New York, NY"
-website: ""
-email: ""
-phone: ""
+  credit: NYC Icarus
+  creditlink: http://www.nycicarus.org
+event-date: "Wednesday, February 2, 2011"
+event-time: "6:00 - 8:00 PM"
+event-location: "20 Cooper Square, 4th Floor"
 ---
 ### This Wednesday! - Poetry Reading With Leah Lakshmi Piepzna Samarasinha
 

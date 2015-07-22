@@ -11,7 +11,7 @@ image:
   credit: 
   creditlink: 
   thumb: friends-best-medicine-400x250.png
-date: 
+date: 2015-07-29T22:08:14-05:00
 ---
 
 
