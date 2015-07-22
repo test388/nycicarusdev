@@ -12,6 +12,8 @@ share: false
 ads: false
 ---
 
+<a href="{{ site.url }}/contact/" class="btn">Contact NYC Icarus</a>
+
 ##Icarus Project Mission Statement
 
 The Icarus Project is a support network and media project by and for people who experience the world in ways that are often diagnosed as mental illness. We advance social justice by fostering mutual aid practices that reconnect healing and collective liberation. We transform ourselves through transforming the world around us.
