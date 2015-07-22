@@ -3,6 +3,7 @@ layout: resource
 title: "Bootcamp Workout Sessions"
 categories: resources
 description: "Challenge yourself with this fast- paced, calorie-blasting workout, usng the traditional Boot Camp style approach."
+excerpt: "Challenge yourself with this fast- paced, calorie-blasting workout, usng the traditional Boot Camp style approach. Boot Camp is geared toward all fitness levels. Modifications are always offered for the beginner to the advanced and you can start at your your own level."
 modified: 2015-07-20T11:57:41-04:00
 tags: [Free events , Athletics]
 comments: true

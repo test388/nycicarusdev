@@ -3,6 +3,7 @@ layout: resource
 title: "Bluestockings Bookstore & Activist Center"
 categories: resources
 description: "Bluestockings is a 100% volunteer-powered and collectively-owned bookstore, fair trade cafe, and activist center in the Lower East Side of Manhattan."
+excerpt: "Bluestockings is a 100% volunteer-powered and collectively-owned bookstore, fair trade cafe, and activist center in the Lower East Side of Manhattan. Bluestockings carries over 6,000 titles on topics such as feminism, queer and gender studies, global capitalism, climate & environment, political theory, police and prisons, race and black studies, radical education, plus many more!"
 modified: 2015-07-20T11:57:41-04:00
 tags: [Activism , Free events , Volunteering]
 comments: true

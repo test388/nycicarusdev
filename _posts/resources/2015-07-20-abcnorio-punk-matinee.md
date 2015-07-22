@@ -2,7 +2,8 @@
 layout: resource
 title: "ABC No Rio Punk/Hardcore Matinee"
 categories: resources
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+description: "ABC No Rio Punk/Hardcore Matinee."
+excerpt: "We are committed to creating a diverse and inclusive scene where all can feel welcome and comfortable, regardless of race, gender or sexual identity. We do not book racist, sexist or homophobic bands.We are only a small part of the ABC No Rio community. ABC itself has been in operation as a community arts space since 1980, and it houses lots of projects and facilities including a zine library, a darkroom, a printshop, a computer center, NYC Food Not Bombs, poetry readings, improv music nights, and an art gallery."
 modified: 2015-07-20T11:57:41-04:00
 tags: [arts]
 comments: true
