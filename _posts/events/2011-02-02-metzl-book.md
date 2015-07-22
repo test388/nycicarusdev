@@ -2,7 +2,8 @@
 layout: article
 title: "Jonathan Metzl Book Talk"
 categories: events
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+description: "Jonathan Metzl Book Talk"
+excerpt: "In The Protest Psychosis, psychiatrist and cultural critic Jonathan Metzl tells the shocking story of how schizophrenia became the diagnostic term overwhelmingly applied to African American men at the Ionia State Hospital in Ionia, Michigan in the 1960s."
 modified: 2011-02-02T11:57:41-04:00
 tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
@@ -10,11 +11,16 @@ ads: false
 image:
   teaser: event-default-400x250.png
   feature: event-default-400x250.png
-  credit: NYC Icarus
-  creditlink: http://www.nycicarus.org
+  credit: 
+  creditlink: 
 event-date: "Wednesday, February 2, 2011"
 event-time: "6:00 - 8:00 PM"
-event-location: "20 Cooper Square, 4th Floor"
+location: ""
+location-street: "20 Cooper Square, 4th Floor"
+location-city-state: "New York, NY"
+website: ""
+email: ""
+phone: ""
 ---
 ### Discussing his recent book *The Protest Psychosis: How Schizophrenia Became a Black Disease*
 
