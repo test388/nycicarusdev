@@ -9,8 +9,8 @@ tags: [Icarus Project, nycicarus , left forum, Sascha DuBrul]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: neoliberalism-psychiatry-400x250.png
+  feature: neoliberalism-psychiatry-1600x800.png
   credit: 
   creditlink: 
 event-date: "Sunday, May 31th, 2015"

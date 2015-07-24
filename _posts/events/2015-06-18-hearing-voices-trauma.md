@@ -8,8 +8,8 @@ tags: [Icarus Project, hearing voices, trauma]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: hearing-voices-400x250.png
+  feature: hearing-voices-1600x800.png
   credit: 
   creditlink: 
 event-date: "Thursday, June 18th, 2015"
