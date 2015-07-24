@@ -9,8 +9,8 @@ tags: [Icarus Project, protest , electroshock , bluestockings]
 comments: true
 ads: false
 image:
-  teaser: show-and-tell-400x250.png
-  feature: show-and-tell-1600x800.png
+  teaser: ect-justice-protest-400x250.png
+  feature: ect-justice-protest-1600x800.png
   credit: 
   creditlink: 
 event-date: "Saturday, May 16th, 2015"
