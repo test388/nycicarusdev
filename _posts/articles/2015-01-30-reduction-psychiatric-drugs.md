@@ -30,8 +30,8 @@ What are some of the differences with the new Second Edition? More than twice as
 
 -- Will Hall  
 
-[Download](http://www.willhall.net/files/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf)
+[Download this Publication](http://www.willhall.net/files/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf)
 
-[Translations](http://www.theicarusproject.net/article/updated-publication-ordering-and-downloads)
+[Publication Translations](http://www.theicarusproject.net/article/updated-publication-ordering-and-downloads)
 
 [Read about the creation of this guide](http://theicarusproject.net/alternative-treatments/the-making-of-the-harm-reduction-guide-to-meds-withdrawal)

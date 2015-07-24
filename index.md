@@ -47,7 +47,7 @@ image:
 
 </div><!-- /.tiles -->
 
-<h1>Events</h1> 
+<a href="{{ site.url }}/events/"><h1>Events</h1></a> 
 
 <div class="tiles">
   {% for post in site.categories.events limit: 4 %}
@@ -58,7 +58,7 @@ image:
 
 <div class="tiles">
   <div class="tile title-tile">
-    <h1>Publications and Media</h1>
+    <a href="{{ site.url }}/publications-media/"><h1>Publications and Media</h1></a>
   </div>
 </div>
  
@@ -71,7 +71,7 @@ image:
 
 <div class="tiles">
   <div class="tile title-tile">
-    <h1>Resources</h1>
+    <a href="{{ site.url }}/resources/"><h1>Resources</h1></a>
   </div>
 </div>
 
