@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Icarus Project NYC: Mad Maps and Forum Theater"
+title: "Left Forum: NYC Icarus Project Forum Theater"
 categories: events
 description: "Icarus Project NYC: Mad Maps and Forum Theater."
 excerpt: "Icarus Project NYC has recently started a Forum Theater group that brings the approaches of Mad Maps into a more social and performative format. We take examples from lived experiences - communication, conflict, relations of power and knowledge - and turn them into scenes portrayed by several actors."

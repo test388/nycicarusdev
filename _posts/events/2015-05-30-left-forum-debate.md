@@ -9,8 +9,8 @@ tags: [Icarus Project, nycicarus , left forum, Seth Farber, Sascha DuBrul]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: mad-pride-debate-400x250.png
+  feature: mad-pride-debate-1600x800.png
   credit: 
   creditlink: 
 event-date: "Saturday, May 30th, 2015"

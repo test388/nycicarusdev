@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Neoliberalism and Psychiatry. How Do We Respond?"
+title: "Left Forum: Neoliberalism and Psychiatry. How Do We Respond?"
 categories: events
 description: "Neoliberalism and Psychiatry. How Do We Respond?"
 excerpt: "NYC Icarus Project Organizer/Co-founder Sascha DuBrul, members of the Radical Caucus of the American Psychiatric Association, and the Critical Psychiatry Network, will discuss the implications of neoliberalism with respect to psychological well-being and the possibilities for professional and grass-roots responses to its impact."
