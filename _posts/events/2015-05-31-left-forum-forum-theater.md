@@ -1,16 +1,16 @@
 ---
 layout: article
-title: "Left Forum: New Mad Pride Movement"
+title: "Icarus Project NYC: Mad Maps and Forum Theater"
 categories: events
 description: "Icarus Project NYC: Mad Maps and Forum Theater."
 excerpt: "Icarus Project NYC has recently started a Forum Theater group that brings the approaches of Mad Maps into a more social and performative format. We take examples from lived experiences - communication, conflict, relations of power and knowledge - and turn them into scenes portrayed by several actors."
-modified: 2015-07-07T11:57:41-04:00
+modified: 2015-07-08T11:57:41-04:00
 tags: [Icarus Project, nycicarus , left forum]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser: forum-theatre-400x250.png
+  feature: forum-theatre-1600x800.png
   credit: 
   creditlink: 
 event-date: "Saturday, May 30th, 2015"
