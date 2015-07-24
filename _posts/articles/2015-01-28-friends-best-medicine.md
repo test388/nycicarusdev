@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Friends Make the Best Medicine"
-modified:
+modified: 2015-07-23T11:57:41-04:00
 categories: articles
 excerpt: "We've outlined a bunch of ideas to help you gather people together to start exploring all the brilliance and confusion we hold inside. We hope these suggestions spark you to start talking, yelling, screaming, dancing, making art, and collaborating on changing the world around you."
 tags: [publication]

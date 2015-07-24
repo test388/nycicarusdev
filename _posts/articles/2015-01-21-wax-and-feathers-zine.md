@@ -11,7 +11,7 @@ image:
   credit: 
   creditlink: 
   thumb: article-default-400x250.png
-date: 2015-07-29T22:08:14-05:00
+date: 2015-07-15T22:08:14-05:00
 ---
 
 This Wax and Feathers zine was a collaborative work by a group of super talented folks who post on the Icarus Project forums.
