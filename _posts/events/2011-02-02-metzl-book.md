@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Jonathan Metzl Book Talk"
+title: "Jonathan Metzl MD PhD Book Talk"
 categories: events
 description: "Jonathan Metzl Book Talk"
 excerpt: "In The Protest Psychosis, psychiatrist and cultural critic Jonathan Metzl tells the shocking story of how schizophrenia became the diagnostic term overwhelmingly applied to African American men at the Ionia State Hospital in Ionia, Michigan in the 1960s."

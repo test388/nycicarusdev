@@ -10,8 +10,8 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  teaser: bluestocking-400x250.jpg
-  feature: bluestocking.jpg
+  teaser: show-and-tell-400x250.png
+  feature: show-and-tell-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, July 1st, 2015"

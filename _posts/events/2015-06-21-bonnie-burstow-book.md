@@ -9,8 +9,8 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  teaser: bluestocking-400x250.jpg
-  feature: bluestocking.jpg
+  teaser: bonnie-burstow-400x250.png
+  feature: bonnie-burstow-1600x800.png
   credit: 
   creditlink: 
 event-date: "Monday, June 29th, 2015"
