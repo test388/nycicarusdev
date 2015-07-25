@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Free Film Screening of "Gabriel" with NYC Icarus Guest Speaker Sascha DuBrul"
+title: "Free Film Screening of ”Gabriel” with NYC Icarus Guest Speaker Sascha DuBrul"
 categories: events
-description: "Free Film Screening of "Gabriel" with NYC Icarus Guest Speaker Sascha DuBrul."
+description: "Free Film Screening of ”Gabriel” with NYC Icarus Guest Speaker Sascha DuBrul."
 excerpt: "Come bring a friend and watch the new film "Gabriel" (2014) about a mentally ill young man, followed by a community conversation about popular narratives of madness, disability, family dynamics, community support, and building a better world. Gloria Corsino, from Parents Council of City-Wide District 75, will also be speaking. It is sure to be an interesting conversation."
-modified: 2015-07-07T11:57:41-04:00
+modified: 2015-07-09T11:57:41-04:00
 tags: [Icarus Project, nycicarus , Sascha DuBrul]
 comments: true
 ads: false
