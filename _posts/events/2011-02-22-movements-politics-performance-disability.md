@@ -9,8 +9,8 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  teaser: occupyhealth-400x250.jpg
-  feature: occupyhealth-400x250.jpg
+  teaser: movements-protest-400x250.png
+  feature: movements-protest-1600x800.png
   credit: 
   creditlink: 
 event-date: "Saturday, February 26, 2011"
