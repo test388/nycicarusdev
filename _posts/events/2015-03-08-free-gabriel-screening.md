@@ -22,6 +22,7 @@ website: "http://nycicarus.org/"
 email: ""
 phone: ""
 ---
+
 ### Free Film Screening with Guest Speaker Sascha DuBrul
 
 **Thursday, March 12, 2015**
@@ -30,4 +31,4 @@ phone: ""
 **524 West 59th Street**
 **New York, NY 10019**
 
-Come bring a friend and watch the new film "Gabriel" (2014) about a mentally ill young man, followed by a community conversation about popular narratives of madness, disability, family dynamics, community support, and building a better world. Gloria Corsino, from Parents Council of City-Wide District 75, will also be speaking. It is sure to be an interesting conversation. This event is part of the ReelAbilities: NY Disabilities Film Festival. Watch a clip from Gabriel here: https://www.youtube.com/watch?v=xCNcjOhl9is
+Come bring a friend and watch the new film "Gabriel" (2014) about a mentally ill young man, followed by a community conversation about popular narratives of madness, disability, family dynamics, community support, and building a better world. Gloria Corsino, from Parents Council of City-Wide District 75, will also be speaking. It is sure to be an interesting conversation. This event is part of the ReelAbilities: NY Disabilities Film Festival. Watch a clip from Gabriel here: [https://www.youtube.com/watch?v=xCNcjOhl9is](https://www.youtube.com/watch?v=xCNcjOhl9is)
