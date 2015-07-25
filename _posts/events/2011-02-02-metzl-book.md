@@ -9,8 +9,8 @@ tags: [Icarus Project, book, NYU, Jonathan Metzl]
 comments: true
 ads: false
 image:
-  teaser: event-default-400x250.png
-  feature: event-default-400x250.png
+  teaser:  protest-psychosis-400x250.png
+  feature: protest-psychosis-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, February 2, 2011"
