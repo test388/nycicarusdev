@@ -14,10 +14,10 @@ image:
   credit: 
   creditlink: 
 resource-date: "Multiple across NYC - see website"
-resource-time: "Multiple across NYC - see website"
-location: "Multiple across NYC"
-location-street: "Multiple across NYC"
-location-city-state: "Brooklyn, New York 11215"
+resource-time: ""
+location: "Multiple across NYC - see website"
+location-street: ""
+location-city-state: ""
 website: "http://www.mhepinc.org/peer-support/ny-peer-run-programs"
 email: "contact form on website"
 phone: "(518) 434-1393"
