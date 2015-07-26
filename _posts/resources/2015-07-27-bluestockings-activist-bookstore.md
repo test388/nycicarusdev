@@ -13,8 +13,8 @@ image:
   feature: bluestockings-resource-1600x800.png
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
-resource-date: "The second Sunday of every month"
-resource-time: ""
+resource-date: "Every day"
+resource-time: "11:00 am – 11:00 pm"
 location: "Bluestockings"
 location-street: "172 Allen Street"
 location-city-state: "New York, New York 10002"
