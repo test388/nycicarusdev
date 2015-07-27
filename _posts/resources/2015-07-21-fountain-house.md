@@ -12,8 +12,8 @@ image:
   feature: fountain-house-1600x800.png
   credit: 
   creditlink: 
-resource-date: "Every day"
-resource-time: "11:00 am – 11:00 pm"
+resource-date: ""
+resource-time: ""
 location: "Fountain House"
 location-street: "425 West 47th Street"
 location-city-state: "New York, NY 10036"
