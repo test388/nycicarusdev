@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Free Screening of Crooked Beauty"
+title: "Free Screening of Documentary Crooked Beauty"
 categories: events
-description: "Performance by The Hungerpeace Project + Alternatives to Psychiatry in Chile/Argentina reportback by Sascha."
+description: "Free Screening of Documentary Crooked Beauty."
 excerpt: "Icarus organizers will be showing the internationally acclaimed and award winning documentary, Crooked Beauty. The film follows the personal journey of Icarus Project co-founder Jacks Ashley McNamara."
 modified: 2015-07-07T11:57:41-04:00
 tags: [ documentary , film , Icarus ]

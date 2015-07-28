@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Therapeutic theater performance by Hungerpeace and Alternatives to Psychiatry Movement in Chile and Argentina reportback by Sascha"
+title: "Performance by The Hungerpeace Project + Alternatives to Psychiatry in Chile & Argentina reportback by Sascha"
 categories: events
 description: "Performance by The Hungerpeace Project + Alternatives to Psychiatry in Chile/Argentina reportback by Sascha."
 excerpt: "Hungerpeace is a living performance experience, addressing in full-light the issues of eating disorder, destructive habitual behavior, and negative self image as they affect our culture and intended to provide a space for transformation and release."
